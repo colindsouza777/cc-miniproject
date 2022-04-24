@@ -4,8 +4,7 @@
   import 'firebase/auth'
 
   const config = {
-    // Manan
-    // Fille in firebase credentials here
+    // Firebase credentials
   };
   // Initialize Firebase
   firebase.initializeApp(config);
