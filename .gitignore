@@ -9,7 +9,7 @@
 /coverage
 
 # credentials
-.firebase.js
+/firebase.js
 
 # production
 /build
